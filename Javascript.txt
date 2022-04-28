@@ -1,2 +1,19 @@
+Javascript
 
 1. Difference in var, let and const.
+2. Difference in map and forEach.
+3. Difference between null and undefined.
+4. What is Event Delegation.
+5. Write code to flatten an Array.(custome function similar to flatten function in Javascript)
+6. SetTimeout and quetions on setTimeout.
+7. Explain Call, Bind and Apply.
+8. Write a composition Polyfill (Similar to compose)
+9. Implemet Promise and Promise.all
+10. Ways to center a div
+11. Explain Box Model
+
+
+React
+
+1. Explain Lifecycle methods in Class component and Functional Component.
+2. Write a debounce function for search Eg: In ecommerce website search a product
